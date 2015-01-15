@@ -1,7 +1,7 @@
 /*!!
  * 
  * index.js
- * @author: Jan Sanchez
+ * @author: Jan Sanchez Alarcon
  *
  */
 
