@@ -1,3 +1,11 @@
+### 1.0.5 (2015-01-15)
+
+
+#### Features
+
+* **package:** Actualizando la version. ([5ca03e94](https://github.com/jansanchez/commits.git/commit/5ca03e94f2ee4feefcec850be54a09449d0e2120))
+
+
 ### 1.0.4 (2015-01-15)
 
 
