@@ -14,6 +14,9 @@ var fn = {
     },
     multiplicar: function(){
         return a * b;
+    },
+    division: function(){
+        return a / b
     }
 }
 
