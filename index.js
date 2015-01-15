@@ -16,7 +16,7 @@ var fn = {
         return a * b;
     },
     division: function(){
-        return a / b
+        return a / b;
     }
 }
 
