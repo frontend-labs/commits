@@ -63,6 +63,7 @@ Se recomienda usar uno de los siguientes ítems. Solo los de tipo **feat** y **f
 * **refactor**: Un cambio en el código que no corrige un error, ni agrega una característica.
 * **test**: Agregando pruebas que falten(porque agregar nuevos test son considerados feat).
 * **chore**: Cambios en el proceso de construcción(compilación) o herramientas auxiliares y/o bibliotecas como generadores de documentación.
+* **wip**: (Work in Progress). Este tipo de commit se usará cuando necesitemos commitear el trabajo que hayamos avanzado y por algun motivo nos encontremos en la necesidad de subirlo.
 
 ### Ambito
 Se refiere al ámbito dentro de la aplicación. Exactamente donde se realiza el cambio.
